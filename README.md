@@ -6,6 +6,6 @@ https://gustavo27gonzalez.github.io/TPGrupalVisualizacioneInterfaces/
 # CSS
 # JavaScript
 Integrantes: 
-Alonso, Leandro - https://github.com/Lenh22
-González, Gustavo - Gustavo27Gonzalez
-Villafañe, Nicolás - VillafaneNicolas
+- Alonso, Leandro - https://github.com/Lenh22
+- González, Gustavo - Gustavo27Gonzalez
+- Villafañe, Nicolás - VillafaneNicolas
