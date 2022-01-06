@@ -7,5 +7,5 @@ https://gustavo27gonzalez.github.io/TPGrupalVisualizacioneInterfaces/
 # JavaScript
 Integrantes: 
 - Alonso, Leandro - https://github.com/Lenh22
-- González, Gustavo - Gustavo27Gonzalez
-- Villafañe, Nicolás - VillafaneNicolas
+- González, Gustavo - https://github.com/Gustavo27Gonzalez
+- Villafañe, Nicolás - https://github.com/VillafaneNicolas
